@@ -66,7 +66,7 @@ Model, 50 epoch sonunda %99'un üzerinde eğitim doğruluğuna ulaşmıştır.
 
 ## 👨‍💻 Geliştirici
 
-[Yusuf Enes Budak]
+### yusuffenes
 
 ## 📄 Lisans
 
